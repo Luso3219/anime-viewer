@@ -2,6 +2,8 @@
   "buildCommand": "pnpm build",
   "outputDirectory": "dist/public",
   "devCommand": "pnpm dev",
-  "installCommand": "pnpm install"
+  "installCommand": "pnpm install",
+  "cleanUrls": true,
+  "trailingSlash": false
 }
 
